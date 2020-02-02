@@ -1,7 +1,7 @@
 ---
 title: Analytics CoE Technology
 ---
-Colons can be used to align columns.
+
 
 | Tool          | Purpose          | SME  |
 | ------------- |:-------------:| -----:|
@@ -10,9 +10,6 @@ Colons can be used to align columns.
 | JIRA | Agile project management and task tracking      |    Mark Penter |
 | Confluence | Knowlegde management and documentation repository | Mark Penter
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty
 --- | --- | ---
