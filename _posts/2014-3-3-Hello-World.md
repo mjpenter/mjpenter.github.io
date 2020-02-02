@@ -1,4 +1,4 @@
-## AnalyticsTechnology Stack
+## Analytics Technology Stack
 
 The below table contains details of the current tools and technology which are in use across the Analytics Community. 
 
