@@ -8,7 +8,7 @@ The list will be udpdated on a regular basis as new tools and technology is adop
 
 
 | Tool          |  Purpose and Description        |How to access       | SME    |
-| ------------- |:-------------:|:-------------:| -----:|
+| ------------- |:-----------------------:|:-------------:| -------------------:|
 | GitHub        | Code Repository |  https://github.riotinto.org/ |Kev Stark  |
 | Slack       | Communications and collaboration      | riotinto-dii.slack.com |  Joel Campbell; Kevin Stark   |
 | JIRA | Agile project management and task tracking      |  https://riotintopace.atlassian.net/secure/BrowseProjects.jspa |  Mark Penter |
